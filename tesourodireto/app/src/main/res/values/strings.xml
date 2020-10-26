@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">tesouro-direto</string>
+    <string name="txt_titulo">Bem vindo ao Tesouro Direto</string>
+    <string name="txt_botao">Ver os Títulos Públicos </string>
+    <string name="txt_titulo_tela_dois">Títulos Públicos</string>
+</resources>

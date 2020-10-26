@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tesouro-direto</string>
+    <string name="txt_titulo">Welcome to Tesouro Direto</string>
+    <string name="txt_botao">See public titles</string>
+    <string name="txt_titulo_tela_dois">Public Titles</string>
+</resources>
